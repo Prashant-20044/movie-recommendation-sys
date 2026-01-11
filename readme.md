@@ -30,3 +30,4 @@ The project uses the **TMDB 5000 Movie Dataset** which includes:
    ```bash
    git clone [https://github.com/Prashant-20044/movie-recommendation-sys.git](https://github.com/Prashant-20044/movie-recommendation-sys.git)
    cd movie-recommendation-sys
+![App Screenshot](https://github.com/Prashant-20044/movie-recommendation-sys/blob/main/Screenshot%202026-01-11%20225454.png)
